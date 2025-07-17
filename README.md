@@ -1,7 +1,7 @@
 ## *I HATE PYTHON*
 # <p align="center">I'm Trefilov Vasyl</p>
 
-**<p align="center">Fullstack Developer — React / Node.js / Firebase / SQL</p>**
+**<p align="center">Fullstack Developer — Rust(wasm/server) / React / Node.js / Firebase / SQL</p>**
 
 ---
 
