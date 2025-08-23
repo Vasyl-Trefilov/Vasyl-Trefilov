@@ -7,10 +7,10 @@
 ### 🌐 Environment & Expertise
 
 ![Arch Linux](https://img.shields.io/badge/OS-ArchLinux-blue?style=for-the-badge&logo=archlinux&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Expert-orange?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Intermediate-orange?style=for-the-badge&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-Intermediate-lightgrey?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-Expert-lightgrey?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasya-trefilov-223598317)  
