@@ -26,7 +26,7 @@
 
 ### 🧰 Dev Tools
 
-[![Dev tools](https://skillicons.dev/icons?i=vscode,git,github,docker,vercel,postman&theme=dark)](https://skillicons.dev)
+[![Dev tools](https://skillicons.dev/icons?i=vscode,git,github,docker,vercel,redis,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -36,20 +36,8 @@
 
 ---
 
-### 🧠 Learning / Exploring
-
-[![Learning](https://skillicons.dev/icons?i=go,docker&theme=dark)](https://skillicons.dev)
-
----
-
-### 🧩 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasyl-trefilov&show_icons=true&theme=radical)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl-trefilov&layout=compact&theme=radical)
 
-[![LeetCode Badge](https://lc.andrewpavlov.org/api/slug/kotogul/badge.svg)](https://lc.andrewpavlov.org/redirect-page/kotogul)
 ---
 
 > 🗨️ *Always up for a challenge, a side project, or some good dev talk.*
