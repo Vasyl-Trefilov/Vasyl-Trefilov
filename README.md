@@ -11,6 +11,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-Expert-lightgrey?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-%3CCOLOR%3E?style=for-the-badge&logo=vulkan&logoColor=white)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasya-trefilov-223598317)  
