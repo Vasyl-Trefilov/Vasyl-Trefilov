@@ -33,7 +33,7 @@
 
 ### 🎨 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,nextjs&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
 ---
 
