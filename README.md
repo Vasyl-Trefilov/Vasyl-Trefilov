@@ -1,7 +1,7 @@
 ## *I HATE PYTHON AND I USE ARCH BTW*
 # <p align="center">I'm Trefilov Vasyl</p>
 
-**<p align="center">Fullstack Developer — Rust(wasm/axum) / React / Node.js / Firebase / SQL / Qdrant / Ai(embedding, LM) / Vulkan</p>**
+**<p align="center">Fullstack Developer — Rust(wasm/axum) / React / Node.js / SQL / Qdrant / Ai(embedding, LM) / Vulkan</p>**
 
 ---
 ### 🌐 Environment & Expertise
