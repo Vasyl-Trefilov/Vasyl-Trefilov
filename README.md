@@ -27,7 +27,7 @@
 
 ### 🧰 Dev Tools
 
-[![Dev tools](https://skillicons.dev/icons?i=vscode,git,github,docker,vercel,redis,postman&theme=dark)](https://skillicons.dev)
+[![Dev tools](https://skillicons.dev/icons?i=vscode,git,github,docker,vercel,redis&theme=dark)](https://skillicons.dev)
 
 ---
 
