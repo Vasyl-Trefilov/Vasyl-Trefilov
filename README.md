@@ -21,7 +21,7 @@
 
 ### <p align="center">🛠️ My Tech Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,react,nodejs,ts,js,firebase,postgres,mysql,go&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,react,nodejs,ts,js,postgres,mysql,go&theme=dark)](https://skillicons.dev)
 
 ---
 
