@@ -32,5 +32,5 @@ Self-taught developer with 4+ years of deep-dive experience into systems program
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VasilisaDotka)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasyl-trefilov&layout=compact&theme=radical)
-
+![Top Languages](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
 > Always up for a challenge, a side project, or some good dev talk.
