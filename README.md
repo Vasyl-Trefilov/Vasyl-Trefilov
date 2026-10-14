@@ -16,12 +16,12 @@
 
 Self-taught developer with 4+ years of deep-dive experience in systems programming, custom engines and AI infrastructure. I like building the thing everyone else imports: game engines, deep-learning frameworks, inference runtimes, even a processor. Then I benchmark it against the big names on my own desktop (RTX 3060 12 GB, Ryzen 5 7600X).
 
-- 🦀 Writing almost everything in **Rust** these days, from GPU kernels to web backends
-- 🎮 Graphics: **Vulkan** engine, **GLSL** shaders, **Three.js** scenes, OpenGL for fun
-- 🧠 AI: training and inference engines, **RAG / LoRA** microservices, game-playing bots
-- 🔧 Low level: **SystemVerilog** CPU design, x86-64 assembly, Rust ↔ C FFI
-- 🌐 Fullstack: **React**, **TypeScript**, **Node.js**, Axum, Postgres, Docker
-- 🐧 Arch Linux, of course
+- Writing almost everything in **Rust** these days, from GPU kernels to web backends
+- Graphics: **Vulkan** engine, **GLSL** shaders, **Three.js** scenes, OpenGL for fun
+- AI: training and inference engines, **RAG / LoRA** microservices, game-playing bots
+- Low level: **SystemVerilog** CPU design, x86-64 assembly, Rust ↔ C FFI
+- Fullstack: **React**, **TypeScript**, **Node.js**, Axum, Postgres, Docker
+- Arch Linux, of course
 
 ## Core stack
 
@@ -42,7 +42,7 @@ Self-taught developer with 4+ years of deep-dive experience in systems programmi
 
 ## Current focus
 
-### 🦀 [RustingStudio](https://github.com/RustingStudio)
+### [RustingStudio](https://github.com/RustingStudio)
 
 My org for rethinking old things with Rust and GPUs. Pure Rust (or GLSL), no C++ build step, every number measured and written down.
 
@@ -53,11 +53,11 @@ My org for rethinking old things with Rust and GPUs. Pure Rust (or GLSL), no C++
 | [**RustingBrain**](https://github.com/RustingStudio/RustingBrain) | Deep-learning library, XOR to a 300M-param transformer | Ties or beats PyTorch `torch.compile` |
 | [**RustingShader**](https://github.com/RustingStudio/RustingShader) | Cinematic Iris shader pack for Minecraft | Gravitationally lensed black hole in the End |
 
-### 🌐 [unyt.org](https://github.com/unyt-org)
+### [unyt.org](https://github.com/unyt-org)
 
 Core developer for a new programming language with natively built-in state sharing and data synchronization out of the box.
 
-### 🧪 AI & 3D systems
+### AI & 3D systems
 
 Hybrid RAG/LoRA microservice ecosystems and physically inspired visual simulations with custom GLSL shaders.
 
@@ -74,20 +74,20 @@ Hybrid RAG/LoRA microservice ecosystems and physically inspired visual simulatio
 
 ## More things I built
 
-| | Project | What it is | Stack |
-| :---: | :--- | :--- | :--- |
-| 🔲 | [**RustingPU**](https://github.com/Vasyl-Trefilov/RustingPU) | Processor RTL in SystemVerilog, simulated with Verilator and driven from Rust | SystemVerilog, Rust |
-| 🛡️ | [**NoctiVpn**](https://github.com/Vasyl-Trefilov/NoctiVpn) | VPN service: control plane, proxy agents and a Telegram bot | Rust, Docker, Postgres |
-| 🤖 | [**quellwerke-ai**](https://github.com/Vasyl-Trefilov/quellwerke-ai) | GPT + RAG chatbot with a fine-tuned LoRA model and a Rust crawler | Node.js, FastAPI, Qdrant, Rust |
-| 🧩 | [**qdrant-lora-microservices**](https://github.com/Vasyl-Trefilov/qdrant-lora-microservices) | AI microservices: Postgres + Qdrant vector search + LoRA inference | Node.js, Python, Docker |
-| ⛏️ | [**minecraftAIs**](https://github.com/Vasyl-Trefilov/minecraftAIs) | Minecraft bots that learn to chop trees and PvP from screen recordings and RL | Python |
-| 📱 | [**PolicyTablet**](https://github.com/Vasyl-Trefilov/PolicyTablet) | Forge 1.20.1 mod for zone-capture games: zones, income and a live map | Java |
-| 📐 | [**geowasm**](https://github.com/Vasyl-Trefilov/geowasm) | GeoGebra-style geometry engine compiled to WebAssembly | Rust, WASM, React |
-| 💬 | [**react-axum-messenger**](https://github.com/Vasyl-Trefilov/react-axum-messenger) | Messenger with an Axum backend and React frontend | Rust, TypeScript |
-| 🌌 | [**threejs-backgrounds**](https://github.com/Vasyl-Trefilov/threejs-backgrounds) | Math-driven animated Three.js backgrounds | JavaScript, Three.js |
-| 🟩 | [**assemblyCube**](https://github.com/Vasyl-Trefilov/assemblyCube) | ASCII square drawn by x86-64 assembly with ANSI escapes | Assembly |
-| 🔗 | [**rusty_c**](https://github.com/Vasyl-Trefilov/rusty_c) | Calling a static C library from Rust over FFI | Rust, C |
-| 📈 | [**TensorFlow-Journey**](https://github.com/Vasyl-Trefilov/TensorFlow-Journey) | My path through TensorFlow, from basics up | Python |
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [**RustingPU**](https://github.com/Vasyl-Trefilov/RustingPU) | Processor RTL in SystemVerilog, simulated with Verilator and driven from Rust | SystemVerilog, Rust |
+| [**NoctiVpn**](https://github.com/Vasyl-Trefilov/NoctiVpn) | VPN service: control plane, proxy agents and a Telegram bot | Rust, Docker, Postgres |
+| [**quellwerke-ai**](https://github.com/Vasyl-Trefilov/quellwerke-ai) | GPT + RAG chatbot with a fine-tuned LoRA model and a Rust crawler | Node.js, FastAPI, Qdrant, Rust |
+| [**qdrant-lora-microservices**](https://github.com/Vasyl-Trefilov/qdrant-lora-microservices) | AI microservices: Postgres + Qdrant vector search + LoRA inference | Node.js, Python, Docker |
+| [**minecraftAIs**](https://github.com/Vasyl-Trefilov/minecraftAIs) | Minecraft bots that learn to chop trees and PvP from screen recordings and RL | Python |
+| [**PolicyTablet**](https://github.com/Vasyl-Trefilov/PolicyTablet) | Forge 1.20.1 mod for zone-capture games: zones, income and a live map | Java |
+| [**geowasm**](https://github.com/Vasyl-Trefilov/geowasm) | GeoGebra-style geometry engine compiled to WebAssembly | Rust, WASM, React |
+| [**react-axum-messenger**](https://github.com/Vasyl-Trefilov/react-axum-messenger) | Messenger with an Axum backend and React frontend | Rust, TypeScript |
+| [**threejs-backgrounds**](https://github.com/Vasyl-Trefilov/threejs-backgrounds) | Math-driven animated Three.js backgrounds | JavaScript, Three.js |
+| [**assemblyCube**](https://github.com/Vasyl-Trefilov/assemblyCube) | ASCII square drawn by x86-64 assembly with ANSI escapes | Assembly |
+| [**rusty_c**](https://github.com/Vasyl-Trefilov/rusty_c) | Calling a static C library from Rust over FFI | Rust, C |
+| [**TensorFlow-Journey**](https://github.com/Vasyl-Trefilov/TensorFlow-Journey) | My path through TensorFlow, from basics up | Python |
 
 ## GitHub stats
 
