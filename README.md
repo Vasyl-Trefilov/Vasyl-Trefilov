@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=700&lines=I+build+engines+from+scratch+in+Rust;Vulkan+%E2%80%A2+CUDA+%E2%80%A2+GLSL+%E2%80%A2+SystemVerilog;Beating+llama.cpp+and+PyTorch+on+a+3060;Founder+of+RustingStudio;And+yes%2C+I+use+Arch+BTW" alt="Typing intro">
 </a>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Vasyl-Trefilov&color=f74c00&style=flat-square&label=profile+views)](https://github.com/Vasyl-Trefilov)
 [![RustingStudio](https://img.shields.io/badge/org-RustingStudio-f74c00?style=flat-square&logo=rust&logoColor=white)](https://github.com/RustingStudio)
 [![Website](https://img.shields.io/badge/web-rustingstudio.github.io-1a1b27?style=flat-square&logo=githubpages&logoColor=white)](https://rustingstudio.github.io/)
 
